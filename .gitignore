@@ -1,0 +1,14 @@
+*
+!.gitignore
+!README.md
+!requirements.txt
+!src/
+!src/**/*.py
+!data/
+!data/.gitkeep
+!results/
+!results/.gitkeep
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
